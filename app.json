@@ -6,18 +6,18 @@
   "success_url": "/",
 
   "env": {
-    "BOT_NUMBER": {
+    "BOT_NUMBER": {94702722766
       "description": "Put the number here.",
       "required": true
     },  
 
-    "SESSION_ID": {
+    "SESSION_ID": {PRABATH-MD~uNVAhAhZ#nIm6t57yMmnB_pqhyB5UKA4mvtU2EfxFZWss78dMSB0
       "description": "Put the session-id here.",
       "required": false
     },  
 
 
-    "GITHUB_AUTH_TOKEN": {
+    "GITHUB_AUTH_TOKEN": {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
       "description": "Put your github authtoken here.",
       "required": true
     }   
